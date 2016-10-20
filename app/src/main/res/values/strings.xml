@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test_DrawView</string>
+    <string name="open">我已经打开了</string>
+    <string name="close">我已经关闭了</string>
+</resources>
